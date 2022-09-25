@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ROMANT21
-- 👀 I’m interested in broading my understanding of CS 
-- 🌱 I’m currently learning Java (for classes) and Python (for neuro-research)
-- 📫 How to reach me: tyler73750@gmail.com
-
-<!---
-ROMANT21/ROMANT21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# *Tyler Roman*
+Heya! My name is ✨Tyler Roman✨
+* I'm currently a sophmore at the University of Oklahoma, majoring in Computer Science with a
+passion in everything programming
+* Languages: Python, Java, C++
+* For all other cool info about me visit: https://www.linkedin.com/in/tyler-roman/
