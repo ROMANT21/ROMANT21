@@ -1,6 +1,6 @@
 # *Tyler Roman*
 Heya! My name is ✨Tyler Roman✨
-* I'm currently a senior at the University of Oklahoma, majoring in Computer Science with a
-passion in everything programming
+* I'm currently a software engineer at [Caption Partners](https://www.captionpartners.com/)
 * Languages: Python, Java, C++
-* For all other cool info about me visit: https://www.linkedin.com/in/tyler-roman/
+* For all other cool info about me visit, you can visit my:
+  * [LinkedIn](https://www.linkedin.com/in/tyler-roman/)
